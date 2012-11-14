@@ -20,7 +20,7 @@ Gem::Specification.new do |gem|
   gem.required_ruby_version = '>= 1.9.2'
 
   gem.add_development_dependency 'rake'
-  gem.add_development_dependency 'bundler',             '~> 1.2'
+  gem.add_development_dependency 'bundler',             '~> 1.1'
   gem.add_development_dependency 'mocha',               '~> 0.13'
   gem.add_development_dependency 'simplecov',           '~> 0.7'
   gem.add_development_dependency 'guard-minitest',      '~> 0.5'
