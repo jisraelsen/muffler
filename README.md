@@ -1,4 +1,4 @@
-Muffler [![Build Status](https://secure.travis-ci.org/jisraelsen/muffler.png?branch=master)](http://travis-ci.org/jisraelsen/muffler)
+Muffler [![Build Status](https://secure.travis-ci.org/jisraelsen/muffler.png?branch=master)](http://travis-ci.org/jisraelsen/muffler) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/jisraelsen/muffler)
 ========
 
 Flexible log suppression for Ruby. Compatible with:
