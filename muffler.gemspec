@@ -23,5 +23,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'bundler',             '~> 1.1'
   gem.add_development_dependency 'mocha',               '~> 0.13'
   gem.add_development_dependency 'simplecov',           '~> 0.7'
+  gem.add_development_dependency 'coveralls',           '~> 0.6'
   gem.add_development_dependency 'guard-minitest',      '~> 0.5'
 end
